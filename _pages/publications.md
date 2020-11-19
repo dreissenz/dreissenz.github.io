@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+My full publication list can be found at <a href="inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20ea%20zhang%2C%20ying-li&ui-citation-summary=true">
+
+
 Highlighted Publications
 ======
 * **Jin Lei** and Antonio M. Moro, ‘Unraveling the Reaction Mechanisms Leading to Partial Fusion of Weakly Bound Nuclei’, Phys. Rev. Lett. 123, 232501 (2019).<a href="/publications/PhysRevLett.123.232501.pdf"> Download here</a>
